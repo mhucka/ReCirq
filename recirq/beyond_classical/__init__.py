@@ -12,9 +12,3 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 """Experiments and tools for characterizing quantum operations."""
-
-from recirq.beyond_classical.google_v2_beyond_classical import (
-    generate_boixo_2018_beyond_classical_v2,
-    generate_boixo_2018_beyond_classical_v2_bristlecone,
-    generate_boixo_2018_beyond_classical_v2_grid,
-)

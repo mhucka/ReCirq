@@ -11,6 +11,3 @@
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing permissions and
 # limitations under the License.
-
-from recirq.cluster_state_mipt.cluster_state import get_two_qubits_6x6, get_circuit
-from recirq.cluster_state_mipt.data_collect import collect_data 

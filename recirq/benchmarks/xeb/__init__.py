@@ -11,8 +11,3 @@
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing permissions and
 # limitations under the License.
-
-from recirq.benchmarks.xeb.grid_parallel_two_qubit_xeb import (
-    collect_grid_parallel_two_qubit_xeb_data,
-    compute_grid_parallel_two_qubit_xeb_results,
-)
