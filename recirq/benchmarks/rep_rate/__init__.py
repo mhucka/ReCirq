@@ -12,4 +12,3 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 #
-from recirq.benchmarks.rep_rate.rep_rate_calculator import RepRateCalculator
